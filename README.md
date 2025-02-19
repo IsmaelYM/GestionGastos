@@ -1,1 +1,2 @@
-# DAW-5
+Aplicacion CRUD de gestión de gastos.
+Colaborador: @FajardoPablo
